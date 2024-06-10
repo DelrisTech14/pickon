@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\pecon\resources\views/careers/view.blade.php ENDPATH**/ ?>
